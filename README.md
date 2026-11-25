@@ -4,6 +4,8 @@
 
 Two small tools for UK freelancers and sole traders, built with plain Laravel and Blade. There is no database and no accounts. Everything lives in your browser session.
 
+
+
 ## What it does
 
 **Invoice generator**
@@ -11,10 +13,14 @@ Two small tools for UK freelancers and sole traders, built with plain Laravel an
 - Choose from GBP, USD or EUR
 - Preview it, edit it, then download it as a PDF
 
+![Create Invoice, add items and download as PDF.](https://github.com/iamjoshade/invoice-expense-tools/blob/a226d380f39272f68487b5082ef8be05b0f9d6b7/track-invoice.png)
+
 **Expense tracker**
 - Log up to 10 expenses with a category, payment method and date
 - See totals by category
-- Download an accountant friendly CSV that includes the UK tax year (6 April to 5 April) for each expense
+- Download an accountant-friendly CSV that includes the UK tax year (6 April to 5 April) for each expense
+
+![Log Expenses and export as CSV](https://github.com/iamjoshade/invoice-expense-tools/blob/a226d380f39272f68487b5082ef8be05b0f9d6b7/track-expenses.png)
 
 ## Requirements
 
